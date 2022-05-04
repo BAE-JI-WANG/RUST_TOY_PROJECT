@@ -1,0 +1,12 @@
+/Users/baejiwang/Documents/GitHub/RUST_TOY_PROJECT/snake/target/debug/deps/cocoa-5e7a9ab2bf482c0e.rmeta: /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/lib.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/appkit.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/base.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/foundation.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/quartzcore.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/macros.rs
+
+/Users/baejiwang/Documents/GitHub/RUST_TOY_PROJECT/snake/target/debug/deps/libcocoa-5e7a9ab2bf482c0e.rlib: /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/lib.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/appkit.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/base.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/foundation.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/quartzcore.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/macros.rs
+
+/Users/baejiwang/Documents/GitHub/RUST_TOY_PROJECT/snake/target/debug/deps/cocoa-5e7a9ab2bf482c0e.d: /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/lib.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/appkit.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/base.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/foundation.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/quartzcore.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/macros.rs
+
+/Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/lib.rs:
+/Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/appkit.rs:
+/Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/base.rs:
+/Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/foundation.rs:
+/Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/quartzcore.rs:
+/Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.24.0/src/macros.rs:

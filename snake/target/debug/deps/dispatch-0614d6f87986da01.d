@@ -1,0 +1,12 @@
+/Users/baejiwang/Documents/GitHub/RUST_TOY_PROJECT/snake/target/debug/deps/dispatch-0614d6f87986da01.rmeta: /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/lib.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/ffi.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/group.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/queue.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/once.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/sem.rs
+
+/Users/baejiwang/Documents/GitHub/RUST_TOY_PROJECT/snake/target/debug/deps/libdispatch-0614d6f87986da01.rlib: /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/lib.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/ffi.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/group.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/queue.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/once.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/sem.rs
+
+/Users/baejiwang/Documents/GitHub/RUST_TOY_PROJECT/snake/target/debug/deps/dispatch-0614d6f87986da01.d: /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/lib.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/ffi.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/group.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/queue.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/once.rs /Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/sem.rs
+
+/Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/lib.rs:
+/Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/ffi.rs:
+/Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/group.rs:
+/Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/queue.rs:
+/Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/once.rs:
+/Users/baejiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/dispatch-0.2.0/src/sem.rs:

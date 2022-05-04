@@ -1,0 +1,1 @@
+/Users/baejiwang/Documents/GitHub/RUST_TOY_PROJECT/snake/target/debug/snake: /Users/baejiwang/Documents/GitHub/RUST_TOY_PROJECT/snake/src/draw.rs /Users/baejiwang/Documents/GitHub/RUST_TOY_PROJECT/snake/src/game.rs /Users/baejiwang/Documents/GitHub/RUST_TOY_PROJECT/snake/src/main.rs /Users/baejiwang/Documents/GitHub/RUST_TOY_PROJECT/snake/src/snake.rs
